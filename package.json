@@ -1,0 +1,16 @@
+{
+  "name": "midnattssol-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A dark, neon-y syntax theme.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "midnattssol"
+  ],
+  "repository": "https://github.com/atom/midnattssol-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
