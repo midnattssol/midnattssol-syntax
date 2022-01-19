@@ -1,3 +1,3 @@
-# Shishkin
+# Midnattssol
 
-Shishkin is a dark syntax theme for Atom, inspired by Ivan Shishkin's landscape paintings.
+Midnattssol is a dark neon syntax theme for Atom.
