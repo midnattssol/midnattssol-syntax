@@ -30,12 +30,7 @@ gray_hues = {
 base_gray = list(colour.hex2hsl("#171626"))
 
 
-def average(*args):
-    return sum(args) / len(args)
-
-
 def main(argv) -> None:
-
     with open("colors.less", "w") as file:
         for name, color in colors.items():
             hsl = list(colour.hex2hsl(color))
